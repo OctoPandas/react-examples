@@ -3,7 +3,7 @@ import Calendar from './components/Calendar'
 
 const App = () => {
   return (
-    <div>
+    <div className="bg-gray-300 py-20">
       <Calendar />
     </div>
   )
