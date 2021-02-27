@@ -68,3 +68,6 @@ d.setDate(0)
 d.setDate(d.getDate()+(6-d.getDay()))
 ```
 
+样式参考：
+
+[Date picker Dona app by Jakub Antalik on Dribbble](https://dribbble.com/shots/14648967-Date-picker-Dona-app)
