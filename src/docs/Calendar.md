@@ -37,6 +37,8 @@ Array(12).fill().map((_, i) => getDaysOfMonth(i, 2021))
 if(Math.abs(month - 6.5) % 2 === 0.5) return ++days
 ```
 
+可否利用模运算的特性去掉绝对值？
+
 另外的写法：
 
 ```js
